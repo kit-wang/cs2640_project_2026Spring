@@ -1,1 +1,1 @@
-# cs2640_project_2026Spring
+[SSTable Striping and Proactive Reclaim: Optimizations for ZNS-Aware RocksDB](./kitwang/src/) -- Kitty Wang -- Implements and evaluates SSTable striping and proactive zone reclaim as ZenFS optimizations for improving RocksDB behavior on emulated ZNS storage.
